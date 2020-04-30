@@ -1,8 +1,13 @@
 #!/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+export DISPLAY=:0.0
 . ~/.bash_profile
 #
 
 cd /home/redbit/crawling/covid/
 git lfs track "*.csv"
 git add .gitattributes
-python /home/redbit/crawling/covid/committer.py
+git add .
+git commit -m "Update repository"
+git push
+#python /home/redbit/crawling/covid/committer.py
