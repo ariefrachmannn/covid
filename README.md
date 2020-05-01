@@ -3,5 +3,6 @@ Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact
 1. Province of West Java (https://pikobar.jabarprov.go.id/)
 2. Province of East Java (https://radarcovid19.jatimprov.go.id/)
 3. Province of South Sulawesi (https://covid19.sulselprov.go.id/)
+4. Province of West Nusa Tenggara (https://corona.ntbprov.go.id/peta)
 
 PS: *Author doesn't hold any rights over data. This is public data that collected programmatically to whom may need it in their COVID-19 related analysis in Indonesia.*
