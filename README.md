@@ -1,5 +1,5 @@
 # Covid
-Data of coronavirus distribution in Indonesia. Collected from province and district level portals for coronavirus. List of currently available data is:
+Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact location of people with coronavirus positive. Collected from province and district level portals for coronavirus. List of currently available data is:
 1. Province of West Java (https://pikobar.jabarprov.go.id/)
 2. Province of East Java (https://radarcovid19.jatimprov.go.id/)
 3. Province of South Sulawesi (https://covid19.sulselprov.go.id/)
