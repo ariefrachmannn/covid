@@ -10,6 +10,5 @@ git add .gitattributes
 git add .
 git commit -m "Update repository"
 git push
-#python /home/redbit/crawling/covid/committer.py
 
 echo DONE
