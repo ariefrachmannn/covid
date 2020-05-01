@@ -1,7 +1,7 @@
 # Covid
-Data persebaran kasus virus corona di Indonesia. Di himpun dari beberapa portal virus corona milik pemerintah daerah. Data provinsi yang sudah tersedia antara lain:
-1. Provinsi Jawa Barat (https://pikobar.jabarprov.go.id/)
-2. Provinsi Jawa Timur (https://radarcovid19.jatimprov.go.id/)
-3. Provinsi Sulawesi Selatan (https://covid19.sulselprov.go.id/)
+Data of coronavirus distribution in Indonesia. Collected from province and district level portals for coronavirus. List of currently available data is:
+1. Province of West Java (https://pikobar.jabarprov.go.id/)
+2. Province of East Java (https://radarcovid19.jatimprov.go.id/)
+3. Province of South Sulawesi (https://covid19.sulselprov.go.id/)
 
-PS: *Author tidak memegang hak cipta atas data ini. Data ini adalah data publik yang dihimpun secara programmatically untuk membantu kebutuhan analisis berbagai pihak yang membutuhkan data terkait COVID-19*
+PS: *Author doesn't hold any rights over data. This is public data that collected programmatically to whom may need it in their COVID-19 related analysis in Indonesia.*
