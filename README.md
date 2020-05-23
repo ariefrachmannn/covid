@@ -1,6 +1,6 @@
 # Covid
 Current national overview:
-|id|provinsi|precentage|jumlah_kasus|jumlah_sembuh|jumlah_meninggal|jumlah_dirawat|
+|id|province|percentage|case|recovered|dead|hospitalized|
 |---|---|---|---|---|---|---|
 |1|DKI JAKARTA|30.78|6400|1510|500|4390|
 |2|JAWA TIMUR|15.05|3129|413|256|2460|
