@@ -44,6 +44,7 @@ Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact
 4. Province of East Java (https://radarcovid19.jatimprov.go.id/) -- [Download](https://www.dropbox.com/sh/e7vtgcnl4ckbvr4/AADo9UMRDZvrhHn66qTHZOvNa?dl=0)
 5. Province of South Sulawesi (https://covid19.sulselprov.go.id/) -- [Download](https://www.dropbox.com/s/z5ek23lwcztj7z7/covid_sulsel.csv?dl=0)
 6. Province of West Nusa Tenggara (https://corona.ntbprov.go.id/peta) -- [Download](https://www.dropbox.com/s/4p2k93n42xx0c00/covid_ntb.csv?dl=0)
+7. Province of South Kalimantan (https://corona.kalselprov.go.id/) -- [Download](https://www.dropbox.com/sh/7aa2kvz8lb04pzz/AADH1Oj5oFMw2mp-D3JStPRsa?dl=0)
 7. District of Tangerang (https://covid19.tangerangkab.go.id/) -- [Download](https://www.dropbox.com/sh/yxovyy6sy5bnz4p/AACZzVHinisKmz8oQWyQJ3nua?dl=0)
 8. City of South Tangerang (https://lawancovid19.tangerangselatankota.go.id/) -- [Download](https://www.dropbox.com/s/zlvxo4ivswdzmle/covid_tangsel.csv?dl=0)
 9. City of Tangerang (https://covid19.tangerangkota.go.id/) -- [Download](https://www.dropbox.com/s/e53224kvdrpjzy0/covid_tangkot.csv?dl=0)
