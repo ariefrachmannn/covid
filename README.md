@@ -46,7 +46,7 @@ Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact
 6. Province of West Nusa Tenggara (https://corona.ntbprov.go.id/peta) -- [Download](https://www.dropbox.com/s/4p2k93n42xx0c00/covid_ntb.csv?dl=0)
 7. Province of South Kalimantan (https://corona.kalselprov.go.id/) -- [Download](https://www.dropbox.com/sh/7aa2kvz8lb04pzz/AADH1Oj5oFMw2mp-D3JStPRsa?dl=0)
 8. Province of Central Kalimantan (https://corona.kalteng.go.id/) -- [Download](https://www.dropbox.com/s/9q01v5r3ys2ozk4/covid_kalteng.csv?dl=0)
-9. Province of East Kalimantan (https://covid19.kaltimprov.go.id/) -- [Download](https://www.dropbox.com/sh/qhpxj532nm80goa/AAB6ek_fp1__ieTR0TFQpfIga?dl=0)
+9. **(New!)** Province of East Kalimantan (https://covid19.kaltimprov.go.id/) -- [Download](https://www.dropbox.com/sh/qhpxj532nm80goa/AAB6ek_fp1__ieTR0TFQpfIga?dl=0)
 10. District of Tangerang (https://covid19.tangerangkab.go.id/) -- [Download](https://www.dropbox.com/sh/yxovyy6sy5bnz4p/AACZzVHinisKmz8oQWyQJ3nua?dl=0)
 11. City of South Tangerang (https://lawancovid19.tangerangselatankota.go.id/) -- [Download](https://www.dropbox.com/s/zlvxo4ivswdzmle/covid_tangsel.csv?dl=0)
 12. City of Tangerang (https://covid19.tangerangkota.go.id/) -- [Download](https://www.dropbox.com/s/e53224kvdrpjzy0/covid_tangkot.csv?dl=0)
