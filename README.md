@@ -50,5 +50,7 @@ Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact
 10. District of Tangerang (https://covid19.tangerangkab.go.id/) -- [Download](https://www.dropbox.com/sh/yxovyy6sy5bnz4p/AACZzVHinisKmz8oQWyQJ3nua?dl=0)
 11. City of South Tangerang (https://lawancovid19.tangerangselatankota.go.id/) -- [Download](https://www.dropbox.com/s/zlvxo4ivswdzmle/covid_tangsel.csv?dl=0)
 12. City of Tangerang (https://covid19.tangerangkota.go.id/) -- [Download](https://www.dropbox.com/s/e53224kvdrpjzy0/covid_tangkot.csv?dl=0)
+13. **(New!)** City of Palembang (https://hallo.palembang.go.id/covid19/) -- [Download](https://www.dropbox.com/sh/oj17bhwhlpjht9e/AABZEG-OiaSaFvikATDx6coEa?dl=0)
+14. **(New!)** City of Pontianak (https://covid19.pontianakkota.go.id/) -- [Download](https://www.dropbox.com/sh/66if3y4ly51j4sh/AADQ-zwLGa7Kz4ZzJgDw2-3na?dl=0)
 
 PS: *Author doesn't hold any rights over data. This is public data that collected programmatically to whom may need it in their COVID-19 related analysis in Indonesia.*
