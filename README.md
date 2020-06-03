@@ -55,4 +55,6 @@ Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact
 15. **(New!)** City of Palembang (https://hallo.palembang.go.id/covid19/) -- [Download](https://www.dropbox.com/sh/oj17bhwhlpjht9e/AABZEG-OiaSaFvikATDx6coEa?dl=0)
 16. **(New!)** City of Pontianak (https://covid19.pontianakkota.go.id/) -- [Download](https://www.dropbox.com/sh/66if3y4ly51j4sh/AADQ-zwLGa7Kz4ZzJgDw2-3na?dl=0)
 
+![Up](https://picresize.com/popup.html?images/rsz_img_186982.png)
+
 PS: *Author doesn't hold any rights over data. This is public data that collected programmatically to whom may need it in their COVID-19 related analysis in Indonesia.*
