@@ -2,40 +2,40 @@
 Current national overview:
 |id|province|percentage|from_yesterday|case|recovered|dead|hospitalized|downloaded_at|
 |---|---|---|---|---|---|---|---|---|
-|1|DKI JAKARTA|24.93|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|208583|186948|3516|18119|2021-01-12 22:57:17 WIB|
-|2|JAWA BARAT|11.84|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|99045|82843|1230|14972|2021-01-12 22:57:17 WIB|
-|3|JAWA TIMUR|11.16|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|93405|80093|6511|6801|2021-01-12 22:57:17 WIB|
-|4|JAWA TENGAH|11.09|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|92764|62372|3774|26618|2021-01-12 22:57:17 WIB|
-|5|SULAWESI SELATAN|4.44|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|37129|30949|650|5530|2021-01-12 22:57:17 WIB|
-|6|KALIMANTAN TIMUR|3.67|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|30738|25055|817|4866|2021-01-12 22:57:17 WIB|
-|7|RIAU|3.16|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|26420|24399|620|1401|2021-01-12 22:57:17 WIB|
-|8|SUMATERA BARAT|2.93|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|24509|18284|545|5680|2021-01-12 22:57:17 WIB|
-|9|BANTEN|2.47|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|20690|10831|413|9446|2021-01-12 22:57:17 WIB|
-|10|BALI|2.33|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|19485|12477|552|6456|2021-01-12 22:57:17 WIB|
-|11|SUMATERA UTARA|2.29|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|19122|16356|700|2066|2021-01-12 22:57:17 WIB|
-|12|KALIMANTAN SELATAN|1.94|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|16193|14437|600|1156|2021-01-12 22:57:17 WIB|
-|13|DAERAH ISTIMEWA YOGYAKARTA|1.82|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|15214|10094|333|4787|2021-01-12 22:57:17 WIB|
-|14|PAPUA|1.64|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|13725|8103|155|5467|2021-01-12 22:57:17 WIB|
-|15|SUMATERA SELATAN|1.50|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|12570|10150|620|1800|2021-01-12 22:57:17 WIB|
-|16|SULAWESI UTARA|1.27|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|10622|7679|342|2601|2021-01-12 22:57:17 WIB|
-|17|KALIMANTAN TENGAH|1.26|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|10506|5051|201|5254|2021-01-12 22:57:17 WIB|
-|18|ACEH|1.07|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|8919|7298|363|1258|2021-01-12 22:57:17 WIB|
-|19|SULAWESI TENGGARA|1.01|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|8429|7082|162|1185|2021-01-12 22:57:17 WIB|
-|20|LAMPUNG|0.88|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|7348|5088|355|1905|2021-01-12 22:57:17 WIB|
-|21|KEPULAUAN RIAU|0.88|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|7325|6589|178|558|2021-01-12 22:57:17 WIB|
-|22|PAPUA BARAT|0.74|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|6214|5683|103|428|2021-01-12 22:57:17 WIB|
-|23|NUSA TENGGARA BARAT|0.74|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|6179|3979|263|1937|2021-01-12 22:57:17 WIB|
-|24|MALUKU|0.71|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|5951|4793|74|1084|2021-01-12 22:57:17 WIB|
-|25|KALIMANTAN UTARA|0.59|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|4977|2292|64|2621|2021-01-12 22:57:17 WIB|
-|26|SULAWESI TENGAH|0.57|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|4765|2610|130|2025|2021-01-12 22:57:17 WIB|
-|27|BENGKULU|0.49|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|4069|3476|129|464|2021-01-12 22:57:17 WIB|
-|28|GORONTALO|0.48|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|3980|3628|106|246|2021-01-12 22:57:17 WIB|
-|29|JAMBI|0.43|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|3615|2630|58|927|2021-01-12 22:57:17 WIB|
-|30|KALIMANTAN BARAT|0.40|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|3348|3034|28|286|2021-01-12 22:57:17 WIB|
-|31|KEPULAUAN BANGKA BELITUNG|0.37|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|3096|2375|53|668|2021-01-12 22:57:17 WIB|
-|32|MALUKU UTARA|0.35|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|2949|2499|92|358|2021-01-12 22:57:17 WIB|
-|33|NUSA TENGGARA TIMUR|0.30|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|2538|1557|62|919|2021-01-12 22:57:17 WIB|
-|34|SULAWESI BARAT|0.27|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|2296|1665|49|582|2021-01-12 22:57:17 WIB|
+|1|DKI JAKARTA|25.05|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|229726|204471|3774|21481|2021-01-19 22:57:57 WIB|
+|2|JAWA BARAT|12.44|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|114072|92671|1375|20026|2021-01-19 22:57:57 WIB|
+|3|JAWA TENGAH|11.39|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|104463|68452|4254|31757|2021-01-19 22:57:57 WIB|
+|4|JAWA TIMUR|10.93|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|100225|85737|6967|7521|2021-01-19 22:57:57 WIB|
+|5|SULAWESI SELATAN|4.55|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|41697|34790|693|6214|2021-01-19 22:57:57 WIB|
+|6|KALIMANTAN TIMUR|3.70|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|33966|27259|881|5826|2021-01-19 22:57:57 WIB|
+|7|RIAU|2.99|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|27459|25315|642|1502|2021-01-19 22:57:57 WIB|
+|8|SUMATERA BARAT|2.80|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|25635|18464|566|6605|2021-01-19 22:57:57 WIB|
+|9|BANTEN|2.44|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|22355|11177|423|10755|2021-01-19 22:57:57 WIB|
+|10|BALI|2.35|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|21530|12768|558|8204|2021-01-19 22:57:57 WIB|
+|11|SUMATERA UTARA|2.15|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|19721|16972|715|2034|2021-01-19 22:57:57 WIB|
+|12|DAERAH ISTIMEWA YOGYAKARTA|1.88|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|17228|11554|394|5280|2021-01-19 22:57:57 WIB|
+|13|KALIMANTAN SELATAN|1.83|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|16737|14937|614|1186|2021-01-19 22:57:57 WIB|
+|14|PAPUA|1.54|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|14138|8158|159|5821|2021-01-19 22:57:57 WIB|
+|15|SUMATERA SELATAN|1.43|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|13122|10571|642|1909|2021-01-19 22:57:57 WIB|
+|16|SULAWESI UTARA|1.25|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|11485|8324|353|2808|2021-01-19 22:57:57 WIB|
+|17|KALIMANTAN TENGAH|1.20|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|11035|5054|201|5780|2021-01-19 22:57:57 WIB|
+|18|ACEH|0.99|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|9055|7379|376|1300|2021-01-19 22:57:57 WIB|
+|19|SULAWESI TENGGARA|0.97|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|8852|7312|170|1370|2021-01-19 22:57:57 WIB|
+|20|LAMPUNG|0.90|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|8228|5564|426|2238|2021-01-19 22:57:57 WIB|
+|21|KEPULAUAN RIAU|0.83|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|7639|6768|188|683|2021-01-19 22:57:57 WIB|
+|22|NUSA TENGGARA BARAT|0.72|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|6578|4004|264|2310|2021-01-19 22:57:57 WIB|
+|23|PAPUA BARAT|0.70|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|6394|5768|106|520|2021-01-19 22:57:57 WIB|
+|24|MALUKU|0.67|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|6109|4913|81|1115|2021-01-19 22:57:57 WIB|
+|25|KALIMANTAN UTARA|0.62|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|5670|2292|64|3314|2021-01-19 22:57:57 WIB|
+|26|SULAWESI TENGAH|0.62|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|5665|3398|152|2115|2021-01-19 22:57:57 WIB|
+|27|BENGKULU|0.47|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|4268|3924|135|209|2021-01-19 22:57:57 WIB|
+|28|GORONTALO|0.44|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|4080|3854|107|119|2021-01-19 22:57:57 WIB|
+|29|JAMBI|0.43|![equal](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_equal.png)|3975|2755|61|1159|2021-01-19 22:57:57 WIB|
+|30|KALIMANTAN BARAT|0.39|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|3557|3205|28|324|2021-01-19 22:57:57 WIB|
+|31|KEPULAUAN BANGKA BELITUNG|0.39|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|3541|2876|64|601|2021-01-19 22:57:57 WIB|
+|32|NUSA TENGGARA TIMUR|0.34|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|3145|1697|90|1358|2021-01-19 22:57:57 WIB|
+|33|MALUKU UTARA|0.34|![down](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_down.png)|3134|2634|94|406|2021-01-19 22:57:57 WIB|
+|34|SULAWESI BARAT|0.28|![up](https://github.com/ariefrachmannn/covid/raw/master/img/rsz_img_186982.png)|2531|1718|58|755|2021-01-19 22:57:57 WIB|
 
 Data of coronavirus distribution in Indonesia. Data doesn't indicated real exact location of people with coronavirus positive. Collected from Indonesian province and district level coronavirus portals. List of currently available data is:
 1. National Overview (https://covid19.go.id/) -- [Download](https://www.dropbox.com/s/66ly270fw4y76fx/covid_nasional.csv?dl=0)
